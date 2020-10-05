@@ -9,12 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my detailed CV [here](../files/polianskii_cv.pdf).
+
+<!---
 Education
 ======
-* B.S. in Mathematics/Computer Science, Saint Petersburg State University, 2016
-* M.S. in Machine Learning, KTH Royal Institute of Technology, 2018
 * Ph.D in Machine Learning, KTH Royal Institute of Technology, 2023 (expected)
-
+* M.S. in Machine Learning, KTH Royal Institute of Technology, 2018
+* B.S. in Mathematics/Computer Science, Saint Petersburg State University, 2016
+-->
 <!---
 Work experience
 ======
@@ -38,12 +41,14 @@ Skills
 * Skill 3
 -->
 
+<!---
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+-->
 <!---
 Talks
 ======
@@ -59,5 +64,6 @@ Teaching
   
 Service and leadership
 ======
+
 * Currently signed in to 43 different slack teams
 -->

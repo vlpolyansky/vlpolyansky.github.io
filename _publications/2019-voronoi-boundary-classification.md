@@ -1,7 +1,7 @@
 ---
 title: "Voronoi Boundary Classification: A High-Dimensional Geometric Approach via Weighted Monte Carlo Integration"
 collection: publications
-permalink: /publication/2019-voronoi-icml
+permalink: /publication/2019-voronoi-boundary-classification
 excerpt: ''
 date: 2019-06-10
 venue: '36th International Conference on Machine Learning'
