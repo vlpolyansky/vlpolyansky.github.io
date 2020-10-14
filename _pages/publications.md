@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% for year in (2019..2020) reversed %}
+  <h2>{{ year }}</h2>
+  {% for post in site.publications reversed %}
+    {% if post.year == year %}
+      {% include archive-single-publication.html%}
+    {% endif %}
+  {% endfor %}
 {% endfor %}

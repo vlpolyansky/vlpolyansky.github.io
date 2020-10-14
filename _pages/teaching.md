@@ -27,6 +27,14 @@ In this master project, we will focus our attention on activation patterns of ne
 
 **Contacts:**<br>
  * Vladislav Polianskii <vpol@kth.se>
+ 
+## High-dimensional Voronoi diagrams and their properties
+{: #high-dim-voronoi }
+**Last updated:** October 2020
+
+description
+
+**Requirements:**
 
 ## References
 {% bibliography -f teaching %}
