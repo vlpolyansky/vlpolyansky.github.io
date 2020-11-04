@@ -26,8 +26,8 @@ In this master project, we will focus our attention on activation patterns of ne
  * Good programming skills and understanding of code organization in at least one ml library, e.g. pytorch or tensorflow
 
 **Contacts:**<br>
- * Vladislav Polianskii <vpol@kth.se>
- * Matteo Gamba <mgamba@kth.se>
+ * Vladislav Polianskii, vpol (at) kth.se
+ * Matteo Gamba, mgamba (at) kth.se
 
 
 ## References
